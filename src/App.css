@@ -29,4 +29,5 @@
 .option {
   padding: 5px;
   height: calc(10px + 2vmin);
+  width: 400px;
 }

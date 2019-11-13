@@ -51,9 +51,6 @@ export const calculate = selections => {
         if(selections.gender === "neuter") {
           return "es";
         }
-        if(selections.gender === "plural") {
-          return "en";
-        }
       }
       if(selections.case === "dative") {
         if(selections.gender === "masculine") {
