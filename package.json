@@ -19,7 +19,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://smwhit.github.io/adjective-declensions",
+  "homepage": "https://smwhit.github.io/adjective-declension",
   "browserslist": {
     "production": [
       ">0.2%",

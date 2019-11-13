@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adjective-declensions/static/css/main.b100e6da.chunk.css",
-    "main.js": "/adjective-declensions/static/js/main.22aae542.chunk.js",
-    "main.js.map": "/adjective-declensions/static/js/main.22aae542.chunk.js.map",
-    "runtime-main.js": "/adjective-declensions/static/js/runtime-main.c7c3fb44.js",
-    "runtime-main.js.map": "/adjective-declensions/static/js/runtime-main.c7c3fb44.js.map",
-    "static/js/2.d928bc07.chunk.js": "/adjective-declensions/static/js/2.d928bc07.chunk.js",
-    "static/js/2.d928bc07.chunk.js.map": "/adjective-declensions/static/js/2.d928bc07.chunk.js.map",
-    "index.html": "/adjective-declensions/index.html",
-    "precache-manifest.80d262f558669b7dc93604a5ad3670fe.js": "/adjective-declensions/precache-manifest.80d262f558669b7dc93604a5ad3670fe.js",
-    "service-worker.js": "/adjective-declensions/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/adjective-declensions/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/adjective-declensions/static/media/logo.25bf045c.svg"
+    "main.css": "/adjective-declension/static/css/main.b100e6da.chunk.css",
+    "main.js": "/adjective-declension/static/js/main.0430bd2d.chunk.js",
+    "main.js.map": "/adjective-declension/static/js/main.0430bd2d.chunk.js.map",
+    "runtime-main.js": "/adjective-declension/static/js/runtime-main.ecb017c3.js",
+    "runtime-main.js.map": "/adjective-declension/static/js/runtime-main.ecb017c3.js.map",
+    "static/js/2.d928bc07.chunk.js": "/adjective-declension/static/js/2.d928bc07.chunk.js",
+    "static/js/2.d928bc07.chunk.js.map": "/adjective-declension/static/js/2.d928bc07.chunk.js.map",
+    "index.html": "/adjective-declension/index.html",
+    "precache-manifest.259614f645e5d18678123f186f9d66c9.js": "/adjective-declension/precache-manifest.259614f645e5d18678123f186f9d66c9.js",
+    "service-worker.js": "/adjective-declension/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/adjective-declension/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/adjective-declension/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7c3fb44.js",
+    "static/js/runtime-main.ecb017c3.js",
     "static/js/2.d928bc07.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.22aae542.chunk.js"
+    "static/js/main.0430bd2d.chunk.js"
   ]
 }
